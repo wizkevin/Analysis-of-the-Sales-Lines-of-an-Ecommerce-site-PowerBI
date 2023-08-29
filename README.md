@@ -6,6 +6,10 @@ Principe d’une marketplace : le site vend les produits de différents vendeurs
 
 Les produits vendus sont regroupés par nature et par univers (l’univers est le niveau 1 c’est-à-dire le plus macro, la nature le niveau 2)
 
+![Tableau-de-bord-1](https://github.com/wizkevin/Analysis-of-the-Sales-Lines-of-an-Ecommerce-site-PowerBI/blob/main/Tableau-de-bord-1.PNG)
+
+![Tableau-de-bord-2](https://github.com/wizkevin/Analysis-of-the-Sales-Lines-of-an-Ecommerce-site-PowerBI/blob/main/Tableau-de-bord-2.PNG)
+
 1. Visualisation
 
 • Créer quelques graphes d’analyse globale des ventes (‘overview’). Notamment : évolution temporelle, analyse par univers / nature, analyse par vendeur.
